@@ -8,8 +8,9 @@ git submodule add -b main https://github.com/ProjetoSophiaDev/eguru4.git theme/e
 
 
 ## custommenuitems
-
+```bash
 Theme
 -Boost | ?theme=boost
 -Classic | ?theme=classic
 -Eguru | ?theme=eguru
+```
